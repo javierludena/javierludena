@@ -23,7 +23,3 @@ When I'm not programming, I enjoy classic anime (Sailor Moon fan since forever) 
 ## Contact
 
 [LinkedIn](https://es.linkedin.com/in/javier-ludena)
-
-## About This Profile
-
-This repository documents my work and development projects. Although I have 5 years of experience in software development, I have recently started using GitHub actively to share code and contribute to open source projects.
