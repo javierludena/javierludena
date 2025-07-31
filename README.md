@@ -1,4 +1,4 @@
-# Javier Ludeña Montes
+# Javier Ludeña
 
 **Software Engineer** specialized in .NET development with 4+ years of professional experience at **Altia Logistic Software S.L.** since November 2020, developing solutions for the logistics sector.
 
