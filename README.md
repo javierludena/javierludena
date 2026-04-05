@@ -1,6 +1,6 @@
 # Javier Ludeña
 
-**Tech lead** specialized in .NET development with 5+ years of professional experience at **Altia Logistic Software S.L.** since November 2020, developing solutions for the logistics sector.
+**Tech lead** specialized in .NET development with 5+ years of professional experience at **Altia** since November 2020, developing solutions for the logistics sector.
 
 ## Technical Experience
 
